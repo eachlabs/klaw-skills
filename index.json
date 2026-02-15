@@ -1,0 +1,34 @@
+{
+  "skills": [
+    {
+      "name": "find-skills",
+      "description": "Discover and install skills from the ecosystem",
+      "author": "eachlabs"
+    },
+    {
+      "name": "web-search",
+      "description": "Search the web using search engines",
+      "author": "eachlabs"
+    },
+    {
+      "name": "browser",
+      "description": "Browse websites and extract information",
+      "author": "eachlabs"
+    },
+    {
+      "name": "facebook-ads",
+      "description": "Search Facebook Ad Library for competitor ads",
+      "author": "eachlabs"
+    },
+    {
+      "name": "eachlabs-image-generation",
+      "description": "Generate images using EachLabs AI models",
+      "author": "eachlabs"
+    },
+    {
+      "name": "eachlabs-video-generation",
+      "description": "Generate videos using EachLabs AI models",
+      "author": "eachlabs"
+    }
+  ]
+}
